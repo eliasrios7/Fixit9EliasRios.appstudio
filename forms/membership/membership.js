@@ -1,7 +1,6 @@
-/*
+
 var members = ["Mary","Sam","Joey","Paul","Mike","Char","Jenny","Kennedy","Kaden","Kurt","Anne"]
 memberSubmit = ""
-
 
 bttnSubmit.onclick=function(){
   memberSubmit = inptFirstName.value
@@ -11,4 +10,3 @@ bttnSubmit.onclick=function(){
     lblMemberMessage.value = "You were not previously a member. Your name has been added to the list."
     members.pop(memberSubmit)
 }
-*/

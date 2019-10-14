@@ -1,4 +1,4 @@
-/*
+
 var accountName = ""
 
 btnSubmit.onclick=function(){
@@ -12,4 +12,3 @@ btnSubmit.onclick=function(){
     inptPassword.value = ""
 }
 
-*/
