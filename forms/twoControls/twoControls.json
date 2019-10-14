@@ -14,27 +14,18 @@
       "!type": "External", 
       "file": [
         "forms", 
-        "membership", 
+        "twoControls", 
         "Elements", 
-        "inptFirstName.json"
+        "checkboxExp.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "membership", 
+        "twoControls", 
         "Elements", 
-        "lblMemberMessage.json"
-      ]
-    }, 
-    {
-      "!type": "External", 
-      "file": [
-        "forms", 
-        "membership", 
-        "Elements", 
-        "bttnSubmit.json"
+        "dropdownYear.json"
       ]
     }
   ], 
@@ -44,7 +35,7 @@
   "expanded_pmp": null, 
   "fullScreen": "true", 
   "height": 460, 
-  "id": "membership", 
+  "id": "twoControls", 
   "language": "JavaScript", 
   "left": "0", 
   "locked": false, 
